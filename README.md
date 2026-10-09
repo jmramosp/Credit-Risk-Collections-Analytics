@@ -189,3 +189,5 @@ It demonstrates practical capabilities in data transformation, analytical modeli
 **JRAMOSP**
 
 BI & Data Engineering | Microsoft Certified
+
+[GitHub](https://github.com/jmramosp)
