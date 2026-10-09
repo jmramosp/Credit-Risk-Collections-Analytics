@@ -172,8 +172,6 @@ Interpretation of analytical results to identify risk exposure, performance gaps
 | Power Query | Data preparation and transformation |
 | DAX | Business calculations and KPI development |
 | Microsoft Excel | Source datasets |
-| Data Modeling | Analytical data organization |
-| Business Intelligence | Performance analysis and reporting |
 
 ## Project Value
 
